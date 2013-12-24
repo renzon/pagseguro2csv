@@ -2,8 +2,11 @@
 
 # C extensions
 *.so
-
+.idea/
 # Packages
+pagseguro.xml
+pagseguro.csv
+.venv
 *.egg
 *.egg-info
 dist
